@@ -1,4 +1,4 @@
-# Random-password-pin-generator
+# Random-password-generator
 Hello! This is a simple project i made to learn more about Java. A completely random password generator.
 This simple program lets you:
 

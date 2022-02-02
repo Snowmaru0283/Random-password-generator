@@ -10,3 +10,4 @@ This simple program lets you:
 6) (Extra) Shuffle a password by input
 
 I hope you enjoy this little program! (or maybe not) 
+PS: It doesn't have exception handler :c

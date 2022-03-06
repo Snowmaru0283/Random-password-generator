@@ -10,12 +10,11 @@ public class Generator {
     private String numbers = "0123456789";
     private String letters = "ABCDEFGHILMNOQRSTUVWXYZ";
     private String specialCharacters = "!#@$%&£?";
-    private Random rndm = new Random();
-
-
+    
     public Generator(int initialLength) {
         this.length = initialLength;
         this.password = new char[initialLength];
+        private Random rndm = new Random();
     }
 
     public void setLength(int length) {
